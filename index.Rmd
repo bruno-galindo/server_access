@@ -91,4 +91,7 @@ So as you can see in the image above, the command *cd ..* took you back to the s
 
 <img src="image10.png" alt="My Image" width="100%" style="display: block; margin-left: auto; margin-right: auto;">
 
-
+<span style="font-weight:bold;">(d)</span> The <span style="color: blue;">cd / command </span> will bring you to the root directory
+```{bash eval=FALSE}
+cd / 
+```
